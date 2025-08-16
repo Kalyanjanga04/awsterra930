@@ -1,1 +1,1 @@
-vpc code
+resource aws_vpc 
